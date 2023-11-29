@@ -44,7 +44,6 @@ class StudentFileStream
 			printData(student);
 			
 		} 
-		
 		catch (IOException ex) 
 		{
 			System.out.println("IOException is caught");
